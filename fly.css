@@ -1,0 +1,8 @@
+.fly_fixed {
+    position: fixed;
+    top: calc(100% - 320px);
+    right: 0;
+    /* width: 600px; */
+    height: auto;
+    z-index: 9999999;
+}
